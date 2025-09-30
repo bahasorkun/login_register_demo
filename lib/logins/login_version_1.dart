@@ -12,8 +12,7 @@ class _LoginVersion1State extends State<LoginVersion1> {
 
   @override
   void initState() {
-    // TODO: implement initState
-
+    super.initState();
     _isObscured = true;
   }
 
